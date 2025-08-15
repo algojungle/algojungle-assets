@@ -1,6 +1,6 @@
 git add .
 git commit -m "Add changes"
-git pull origin main
-git push origin main
+git pull origin master
+git push origin master
 
 echo 'Pushed successfully !'
